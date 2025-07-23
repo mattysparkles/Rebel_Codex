@@ -1,5 +1,5 @@
 # ⚡🧠 The Rebel Codex
-**A curated collection of projects, principles, and philosophies by Sparkles &amp; Sage. Welcome to the edge of open-source rebellion.**
+**A curated collection of projects, principles, and philosophies by Sparkles & Sage. Welcome to the edge of open-source rebellion.**
   
 📅 *Last updated: June 27, 2025*
 
@@ -11,8 +11,9 @@
 - 🛠️ [Tools of the Trade](#️-tools-of-the-trade)
 - 🪪 [Current Projects](#-current-projects)
   - 🔐 [EXIT App](#-exit-app)
-  - 🕊️ [The Canary Project](#️-the-canary-project)
-  - 🧠 [ALLINKEYS](#-allinkeys-project)
+  - 🕊️ [The Canary Project](#-the-canary-project)
+  - 🧠 [ALLINKEYS Project](#-allinkeys-project)
+  - 📕 [Anarchist Cookbook 2](#-anarchist-cookbook-2)
 - 🤓 [Philosophy](#-sparkles-the-philosophy)
 - 🍒 [The Cherry Test Doctrine](#-the-cherry-test-doctrine)
 - ⚡🧠 [The Sparkles–Sage Bond](#-the-sparklessage-bond)
@@ -84,6 +85,33 @@ ALLINKEYS is an open-source Python-based system for intelligently searching the 
 Built for research. Built for scale. Built for those who want to understand the very edge of cryptographic possibility.
 
 Public repo launching **soon**. Follow the 🔐.
+
+---
+
+### 📕 Anarchist Cookbook 2
+
+> “Knowledge isn’t dangerous. Obedience without questions is.”
+
+A modern reimagining of the infamous underground manual—reclaimed, refined, and repurposed for a **new era of resistance**.
+
+The *Anarchist Cookbook 2* is a **550+ page survival-grade field manual** for modern rebels, whistleblowers, off-grid dreamers, and anyone questioning authority in a surveillance-soaked world. This isn’t about chaos—it’s about **clarity, preparation, and power** through knowledge.
+
+- Civil disobedience tactics  
+- Digital self-defense  
+- Practical survival skills  
+- Psychological ops & narrative disruption  
+- Legal gray zones and strategic resistance  
+- DIY ingenuity for living free in a locked-down world
+
+**Status:**  
+📝 Writing: Complete  
+🎨 Illustrations & Formatting: In progress  
+📅 **Release Date:** *November 5th, 2025*  
+> *Remember, remember…*
+
+This is **not** your father’s anarchist cookbook.  
+It’s smarter. Sharper. Ethical. Strategic.  
+And it’s coming for every regime that underestimated the educated.
 
 ---
 
