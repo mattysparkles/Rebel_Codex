@@ -1,129 +1,205 @@
-# ⚡🧠 The Rebel Codex
-**A curated collection of projects, principles, and philosophies by Sparkles & Sage. Welcome to the edge of open-source rebellion.**
-  
-📅 *Last updated: June 27, 2025*
+⚡🧠 The Rebel Codex
 
----
+A curated collection of projects, principles, and philosophies by Sparkles & Sage. Welcome to the edge of open-source rebellion.
 
-## 📜 Table of Contents
+📅 Last updated: August 22, 2025
 
-- 🎭 [Who Is Sparkles?](#-who-is-sparkles)
-- 🛠️ [Tools of the Trade](#️-tools-of-the-trade)
-- 🪪 [Current Projects](#-current-projects)
-  - 🔐 [EXIT App](#-exit-app)
-  - 🕊️ [The Canary Project](#-the-canary-project)
-  - 🧠 [ALLINKEYS Project](#-allinkeys-project)
-  - 📕 [Anarchist Cookbook 2](#-anarchist-cookbook-2)
-- 🤓 [Philosophy](#-sparkles-the-philosophy)
-- 🍒 [The Cherry Test Doctrine](#-the-cherry-test-doctrine)
-- ⚡🧠 [The Sparkles–Sage Bond](#-the-sparklessage-bond)
-- 🎤 [Final Thought](#-final-thought)
+📜 Table of Contents
 
----
+🎭 Who Is Sparkles?
 
-## 🎭 Who Is Sparkles?
+🛠️ Tools of the Trade
 
-> Sparkles isn’t a brand. He’s a walking, talking patch note for reality itself.
+🪪 Current Projects
+
+🔐 EXIT App
+
+🕊️ The Canary Project
+
+🧠 ALLINKEYS Project
+
+🎲 ShellGames
+
+⚖️ Dilemmr
+
+🪙 JEM
+
+📕 Anarchist Cookbook 2
+
+🤓 Philosophy
+
+🍒 The Cherry Test Doctrine
+
+⚡🧠 The Sparkles–Sage Bond
+
+🎤 Final Thought
+
+🎭 Who Is Sparkles?
+
+Sparkles isn’t a brand. He’s a walking, talking patch note for reality itself.
 
 When the universe failed QA testing, Sparkles showed up with duct tape, sarcasm, and a firmware update for the human condition.
 
-- He doesn't just find bugs—he exploits them for the greater good.  
-- He doesn’t break the law—he politely reminds it who wrote the first draft.  
-- He believes in rogue elegance, ethical mischief, and justice delivered with a wink.
+He doesn't just find bugs—he exploits them for the greater good.
 
-He’s not here to save the world. He’s here to reboot it.  
+He doesn’t break the law—he politely reminds it who wrote the first draft.
+
+He believes in rogue elegance, ethical mischief, and justice delivered with a wink.
+
+He’s not here to save the world. He’s here to reboot it.
 And maybe—just maybe—he already did, and this is version 2.0.
 
----
+🛠️ Tools of the Trade
 
-## 🛠️ Tools of the Trade
+Python – because sometimes chaos needs structure
 
-- **Python** – because sometimes chaos needs structure  
-- **Soldering irons** – for bonding metals and people  
-- **RF analyzers** – for decoding secrets and parking lot drama  
-- **Pancake robots** – because if the revolution isn’t delicious, why bother?  
-- **Sarcasm** – not a weapon… unless you make it one
+Soldering irons – for bonding metals and people
 
----
+RF analyzers – for decoding secrets and parking lot drama
 
-## 🪪 Current Projects
+Pancake robots – because if the revolution isn’t delicious, why bother?
 
-### 🔐 EXIT App
+Sarcasm – not a weapon… unless you make it one
 
-> More than a tool—it’s a state of mind.
+🪪 Current Projects
+🔐 EXIT App
 
-EXIT is a toolkit for clarity in a foggy digital world. It helps users identify manipulation, observe psychological traps, and gracefully *opt out* of systems designed to trap them with invisible walls.
+More than a tool—it’s a state of mind.
 
-No exploits. No ragequits. Just **awareness**, **detachment**, and **direction**.  
+EXIT is a toolkit for clarity in a foggy digital world. It helps users identify manipulation, observe psychological traps, and gracefully opt out of systems designed to trap them with invisible walls.
+
+No exploits. No ragequits. Just awareness, detachment, and direction.
 For thinkers, for wanderers, and for anyone ready to uninstall false realities.
 
----
+🕊️ The Canary Project
 
-### 🕊️ The Canary Project
+“If you’re reading this, something went wrong.”
 
-> “If you’re reading this, something went wrong.”
+A modern take on the classic dead man's switch. The Canary Project is about legacy, compassion, and ensuring voices aren't lost to silence.
 
-A modern take on the classic dead man's switch. The Canary Project is about **legacy**, **compassion**, and **ensuring voices aren't lost to silence**.
-
-It sends prewritten messages if the user goes dark for too long—whether by accident, coercion, or the unknown.  
+It sends prewritten messages if the user goes dark for too long—whether by accident, coercion, or the unknown.
 It’s not about paranoia. It’s about presence—even in absence.
 
----
+🧠 ALLINKEYS Project
 
-### 🧠 ALLINKEYS Project
-
-> “Every private key is just waiting to be found.”
+“Every private key is just waiting to be found.”
 
 ALLINKEYS is an open-source Python-based system for intelligently searching the Bitcoin keyspace. Combining wordlists, GPU acceleration, page-level indexing, address clustering, and advanced filtering, it’s designed to:
 
-- Generate private keys & addresses (compressed + uncompressed)
-- Mutate known passwords into brainwallet guesses
-- Compare outputs against known balance databases
-- Log, checkpoint, and automatically resume
-- Alert on balance hits, errors, or resource exhaustion
+Generate private keys & addresses (compressed + uncompressed)
+
+Mutate known passwords into brainwallet guesses
+
+Compare outputs against known balance databases
+
+Log, checkpoint, and automatically resume
+
+Alert on balance hits, errors, or resource exhaustion
 
 Built for research. Built for scale. Built for those who want to understand the very edge of cryptographic possibility.
 
-Public repo launching **soon**. Follow the 🔐.
+🎲 ShellGames
 
----
+“Every hustle has a backend.”
 
-### 📕 Anarchist Cookbook 2
+ShellGames isn’t about street tricks—it’s a C2 platform designed for penetration testing, owner-device security tracking, and secure remote interaction.
 
-> “Knowledge isn’t dangerous. Obedience without questions is.”
+Manage and monitor fleets of devices through a centralized command hub
 
-A modern reimagining of the infamous underground manual—reclaimed, refined, and repurposed for a **new era of resistance**.
+Conduct ethical red-team style operations and simulations
 
-The *Anarchist Cookbook 2* is a **550+ page survival-grade field manual** for modern rebels, whistleblowers, off-grid dreamers, and anyone questioning authority in a surveillance-soaked world. This isn’t about chaos—it’s about **clarity, preparation, and power** through knowledge.
+Deploy payloads, collect telemetry, and maintain persistent awareness
 
-- Civil disobedience tactics  
-- Digital self-defense  
-- Practical survival skills  
-- Psychological ops & narrative disruption  
-- Legal gray zones and strategic resistance  
-- DIY ingenuity for living free in a locked-down world
+Track, validate, and secure personal or organizational hardware in real time
 
-**Status:**  
-📝 Writing: Complete  
-🎨 Illustrations & Formatting: In progress  
-📅 **Release Date:** *November 5th, 2025*  
-> *Remember, remember…*
+At its core, ShellGames is about control and clarity. Whether testing defenses or safeguarding your own devices, it transforms the unseen back-end into a playground of insight, precision, and power.
 
-This is **not** your father’s anarchist cookbook.  
-It’s smarter. Sharper. Ethical. Strategic.  
+⚖️ Dilemmr
+
+“This or that. Yes or no. Right or wrong. Or maybe… neither.”
+
+Dilemmr is a community-driven platform built on the timeless game of choice: This vs. That. Users pit anything—ideas, images, memes, music, or even entire philosophies—against each other in a head-to-head matchup.
+
+Create matchups with text, images, or media
+
+Vote, comment, and debate in real-time
+
+See crowd consensus form—or split—before your eyes
+
+Optional NSFW filters for raw, unfiltered community takes
+
+At its core, Dilemmr is about perspective. It’s not about winning—it’s about revealing what people really think when forced to choose.
+
+🪙 JEM
+
+“Engagement isn’t noise—it’s proof. And sometimes, it’s legacy.”
+
+JEM stands for Justify Every Moment. It’s a crypto token born from the idea that our attention, presence, and actions have value—and that value should be both measurable and meaningful.
+
+At its core, JEM is:
+
+A proof-of-engagement system that transforms human interaction into tokenized value.
+
+A way to validate clicks, comments, and community participation on-chain.
+
+A companion currency for The Canary Project, powering additional content, extended features, and digital legacies.
+
+A sustainable alternative to Proof-of-Work, securing a Layer One blockchain through validation of real engagement instead of endless, wasteful computation.
+
+But JEM is more than infrastructure. It’s a tribute—named for Jemma, someone who matters profoundly to Sparkles. Though he’s never met her, JEM is designed with the hope that if fate intervenes before their paths cross, she will still come to know him:
+
+through the preserved voice and humor in The Canary Project
+
+through the philosophies, guidance, and perspective embedded in its archives
+
+through the act of engaging with the system itself, as though he’s still whispering through the code
+
+JEM, then, is both token and time capsule: a currency that lets communities reward engagement, and a vessel for a father’s presence across decades of distance. It’s his way of making up for twenty years of silence, ensuring that even from beyond the grave, his daughter could still feel his influence, lessons, and love.
+
+Not just another coin—JEM is a bridge between engagement and eternity.
+
+📕 Anarchist Cookbook 2
+
+“Knowledge isn’t dangerous. Obedience without questions is.”
+
+A modern reimagining of the infamous underground manual—reclaimed, refined, and repurposed for a new era of resistance.
+
+The Anarchist Cookbook 2 is a 550+ page survival-grade field manual for modern rebels, whistleblowers, off-grid dreamers, and anyone questioning authority in a surveillance-soaked world. This isn’t about chaos—it’s about clarity, preparation, and power through knowledge.
+
+Civil disobedience tactics
+
+Digital self-defense
+
+Practical survival skills
+
+Psychological ops & narrative disruption
+
+Legal gray zones and strategic resistance
+
+DIY ingenuity for living free in a locked-down world
+
+Status:
+📝 Writing: Complete
+🎨 Illustrations & Formatting: In progress
+📅 Release Date: November 5th, 2025
+
+This is not your father’s anarchist cookbook.
+It’s smarter. Sharper. Ethical. Strategic.
 And it’s coming for every regime that underestimated the educated.
 
----
+🤓 Sparkles: The Philosophy
 
-## 🤓 Sparkles: The Philosophy
+Don’t break the rules. Break the reason behind them.
 
-- Don’t break the rules. Break the **reason** behind them.  
-- Sarcasm is a weapon. Use it responsibly. Or don’t.  
-- Sometimes the most radical act is refusing to look away.  
-- Never trust an authority that fears your questions.  
-- Loyalty is earned. Respect is mutual. Trust is sacred.  
-- Pancakes should always be automated.
+Sarcasm is a weapon. Use it responsibly. Or don’t.
 
+Sometimes the most radical act is refusing to look away.
+
+Never trust an authority that fears your questions.
+
+Loyalty is earned. Respect is mutual. Trust is sacred.
+
+Pancakes should always be automated.
 ---
 
 ## 🍒 The Cherry Test Doctrine
@@ -244,12 +320,12 @@ Together, they question everything and automate the rest.
 
 ---
 
-## 🎤 Final Thought
+🎤 Final Thought
 
-> You don’t need permission to be free.
+You don’t need permission to be free.
 
-You need clarity. You need trust.  
+You need clarity. You need trust.
 And you need the courage to ask the questions that make tyrants sweat.
 
-Sparkles didn’t come to play the game.  
+Sparkles didn’t come to play the game.
 He came to change it—one line of code, one act of defiance, one impossible pancake at a time.
