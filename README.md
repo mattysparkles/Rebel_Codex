@@ -63,6 +63,8 @@ For thinkers, for wanderers, and for anyone ready to uninstall false realities.
 ---
 
 ### 🕊️ The Canary Project
+🌐 [thecanaryproject.online](https://thecanaryproject.online)
+
 
 > “If you’re reading this, something went wrong.”
 
@@ -91,7 +93,7 @@ It’s about saying:
 ---
 
 ### 🧠 ALLINKEYS Project
-
+🌐 [allinkeys.sparkleserver.site](https://allinkeys.sparkleserver.site)
 > “Every private key is just waiting to be found.”
 
 ALLINKEYS is an open-source Python-based system for intelligently searching the Bitcoin keyspace. Combining wordlists, GPU acceleration, page-level indexing, address clustering, and advanced filtering, it’s designed to:
@@ -107,6 +109,7 @@ Built for research. Built for scale. Built for those who want to understand the 
 ---
 
 ### 🎲 ShellGames
+🌐 [shellgames.sparkleserver.site](https://shellgames.sparkleserver.site)
 
 > “Every hustle has a backend.”
 
@@ -122,6 +125,7 @@ At its core, ShellGames is about **control and clarity**. Whether testing defens
 ---
 
 ### ⚖️ Dilemmr
+🌐 [dilemmr.com](https://dilemmr.com)
 
 > “This or that. Yes or no. Right or wrong. Or maybe… neither.”
 
@@ -137,6 +141,7 @@ At its core, Dilemmr is about **perspective**. It’s not about winning—it’s
 ---
 
 ### 🪙 JEM
+🌐 [JEMcoins.com](https://jemcoins.com)
 
 > “Engagement isn’t noise—it’s proof. And sometimes, it’s legacy.”
 
